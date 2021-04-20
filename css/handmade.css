@@ -4,6 +4,10 @@ p {
   color: skyblue;
 }
 
+a {
+    font-size: 40px;
+    color: #f0e68c;
+}
 
 body 
 { 
