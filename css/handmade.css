@@ -4,7 +4,12 @@ p {
   color: skyblue;
 }
 
-a {
+a21 {
+    font-size: 40px;
+    color: #f0e68c;
+}
+
+b {
     font-size: 40px;
     color: #f0e68c;
 }
