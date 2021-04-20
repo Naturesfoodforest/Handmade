@@ -1,3 +1,8 @@
+h {
+  font-size: 120%
+    color: yellowgreen;
+}
+
 p {
   font-size: 120%;
   color: skyblue;
@@ -7,8 +12,5 @@ p {
 body 
 { 
   background: url("Spices.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+
 }
