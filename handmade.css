@@ -1,0 +1,15 @@
+
+p {
+  font-size: 120%;
+  color: skyblue;
+}
+
+
+body 
+{ 
+  background: url("Spices.JPG") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
