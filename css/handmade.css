@@ -1,21 +1,61 @@
 h1 {
-  font-size: 220%;
-  color: skyblue;
+padding: 160px 0;
+text-align: center;
+height: 1px;
+font-size: 90px;
+color: #ffffff;
+font-family:Univers Light,Helvetica,Arial,sans-serif;
+font-style:normal;
+opacity: 0.85;
 }
 
-p {
-  font-size: 420%;
-  color: #ffffff;
+h2 {
+text-align: center;
+padding: 0px 0;
+position:relative;
+width: 100%;
+height: 50px;
+font-size: 40px;
+color: #ffffff;
+font-family:Univers Light,Helvetica,Arial,sans-serif;
+font-style:normal;
 }
 
-a {
-    font-size: 40px;
-    color: #f0e68c;
+a.a1 {
+  background: url("insta5.png") no-repeat 100% 0;
+background-size: 80px 80px;
+  height: 100px;
+  width: 100px;
+position: absolute;
+bottom:0;
+display: block;
+margin-left: 30%;
+margin-right: auto;
+vertical-align:bottom;
 }
 
-b {
-    font-size: 40px;
-    color: #f0e68c;
+a.a2 {
+  background: url("twit4.png") no-repeat 100% 0;
+background-size: 85px 85px;
+  height: 100px;
+  width: 100px;
+position: absolute;
+bottom:0;
+    display: block;
+    margin-left: 45%;
+    margin-right: auto;
+}
+
+a.a3 {
+  background: url("email5.png") no-repeat 100% 0;
+background-size: 80px 80px;
+  height: 100px;
+  width: 100px;
+position: absolute;
+bottom:0;
+    display: block;
+    margin-left: 60%;
+    margin-right: auto;
 }
 
 body 
