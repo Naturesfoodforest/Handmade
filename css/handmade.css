@@ -1,44 +1,44 @@
 h1 {
-padding: 160px 0;
+padding: 195px 0;
 text-align: center;
 height: 1px;
 font-size: 90px;
-color: #ffffff;
+color: #c0c0c0;
 font-family:Univers Light,Helvetica,Arial,sans-serif;
 font-style:normal;
-opacity: 0.85;
+opacity: 1;
 }
 
 h2 {
 text-align: center;
-padding: 0px 0;
+padding: 135px 0;
 position:relative;
 width: 100%;
 height: 50px;
 font-size: 40px;
-color: #ffffff;
+color: #000000;
 font-family:Univers Light,Helvetica,Arial,sans-serif;
 font-style:normal;
 }
 
 a.a1 {
-  background: url("insta5.png") no-repeat 100% 0;
-background-size: 80px 80px;
-  height: 100px;
-  width: 100px;
+  background: url("insta7.png") no-repeat 100% 0;
+background-size: 120px 120px;
+  height: 120px;
+  width: 120px;
 position: absolute;
 bottom:0;
 display: block;
-margin-left: 30%;
+margin-left: 20%;
 margin-right: auto;
 vertical-align:bottom;
 }
 
 a.a2 {
-  background: url("twit4.png") no-repeat 100% 0;
-background-size: 85px 85px;
-  height: 100px;
-  width: 100px;
+  background: url("twit7.png") no-repeat 100% 0;
+background-size: 130px 120px;
+  height: 120px;
+  width: 130px;
 position: absolute;
 bottom:0;
     display: block;
@@ -47,16 +47,28 @@ bottom:0;
 }
 
 a.a3 {
-  background: url("email5.png") no-repeat 100% 0;
-background-size: 80px 80px;
-  height: 100px;
-  width: 100px;
+  background: url("email6.png") no-repeat 100% 0;
+background-size: 120px 120px;
+  height: 120px;
+  width: 120px;
 position: absolute;
 bottom:0;
     display: block;
-    margin-left: 60%;
+    margin-left: 70%;
     margin-right: auto;
 }
+
+.pic {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 650px;
+   height: 600px;
+   margin-top: -300px;
+   margin-left: -335px;
+   opacity: 1;
+}
+
 
 body 
 { 
@@ -67,3 +79,4 @@ body
   background-size: cover;
   
 }
+
