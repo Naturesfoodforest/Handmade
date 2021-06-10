@@ -1,6 +1,6 @@
 a.a1 {
   background: url("insta7.png") no-repeat 100% 0;
-background-size: 100px 100px;
+background-size: 80px 80px;
   height: 100px;
   width: 100px;
 position: absolute;
@@ -13,7 +13,7 @@ vertical-align:bottom;
 
 a.a2 {
   background: url("twit7.png") no-repeat 100% 0;
-background-size: 110px 100px;
+background-size: 90px 80px;
   height: 100px;
   width: 110px;
 position: absolute;
@@ -25,7 +25,7 @@ bottom:0;
 
 a.a3 {
   background: url("email6.png") no-repeat 100% 0;
-background-size: 100px 100px;
+background-size: 80px 80px;
   height: 100px;
   width: 100px;
 position: absolute;
@@ -37,7 +37,7 @@ bottom:0;
 
 .pic {
    position: absolute;
-   top: 40%;
+   top: 35%;
    left: 50%;
    width: 450px;
    height: 400px;
